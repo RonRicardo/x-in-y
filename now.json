@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "PUBLIC_KEY": "@public-key",
+      "PRIVATE_KEY": "@private-key"
+    }
+  }
+}
